@@ -9,10 +9,6 @@ public class UserServiceImpl implements UserService {
 
     UserDaoJDBCImpl userDaoJDBC = new UserDaoJDBCImpl();
 
-//    public UserServiceImpl(UserDaoJDBCImpl userDaoJDBC) {
-//        this.userDaoJDBC = userDaoJDBC;
-//    }
-
     public UserServiceImpl() {
 
     }

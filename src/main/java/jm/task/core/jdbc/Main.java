@@ -10,9 +10,7 @@ public class Main {
 
         // реализуйте алгоритм здесь
             Util.getConnection();
-//            UserDao userDao = new UserDaoJDBCImpl();
             UserServiceImpl userService = new UserServiceImpl();
-
 
             userService.createUsersTable();
 
