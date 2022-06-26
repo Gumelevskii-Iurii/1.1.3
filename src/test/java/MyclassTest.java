@@ -6,5 +6,6 @@ public class MyclassTest {
         System.out.println("Wow");
         System.out.println("fdas");
         System.out.println("last");
+        System.out.println("last2");
     }
 }
