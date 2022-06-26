@@ -7,5 +7,6 @@ public class MyclassTest {
         System.out.println("fdas");
         System.out.println("last");
         System.out.println("last2");
+        System.out.println("last3");
     }
 }
